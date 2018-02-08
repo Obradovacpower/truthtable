@@ -1,5 +1,5 @@
 #!/usr/bin/env python2.7
-# coding: latin-1
+# coding: utf-8
 
 table = """+-------+-------+--------+-------+-------+-------+-------+
 |   P   |   Q   |   ¬P   | P ∧ Q | P ∨ Q | P ⇒ Q | P ⇔ Q |
